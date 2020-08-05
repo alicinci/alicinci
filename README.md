@@ -10,6 +10,7 @@
 -  **Web Development :** PHP (Laravel/Codeigniter/Symfony), WebSocket (ReactPHP, Ratchet, Socket.io), JavaScript (Vue), Node.js
 -  **Machine Learning :** Python
 -  **Big Data/Data Management :** Elastic, MongoDB, Redis, Memcached, RabbitMQ
+-  **Database Management :** Postgre, MySQL, MsSQL, Oracle
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
