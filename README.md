@@ -5,7 +5,7 @@
 <a href="https://twitter.com/acncii"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
 
-### About
+### About My Skills
 
 -  **Web Development :** PHP (Laravel/Codeigniter/Symfony), WebSocket (ReactPHP, Ratchet, Socket.io), JavaScript (Vue), Node.js
 -  **Machine Learning :** Python
