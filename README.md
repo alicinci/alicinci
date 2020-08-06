@@ -7,8 +7,9 @@
 
 ### About My Skills
 
--  **Web Development :** PHP (Laravel/Codeigniter/Symfony), WebSocket (ReactPHP, Ratchet, Socket.io), JavaScript (Vue), Node.js
+-  **Web Development :** PHP (Laravel/Codeigniter/Symfony), WebSocket (ReactPHP, Ratchet, Socket.io), Rest, GraphQL
 -  **Machine Learning :** Python
+-  **JS Development :** Vue, Node.js, Axios
 -  **Big Data/Data Management :** Elastic, MongoDB, Redis, Memcached, RabbitMQ
 -  **Database Management :** Postgre, MySQL, MsSQL, Oracle
 
